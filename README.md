@@ -15,7 +15,7 @@ Detect Outliers using EDD and visualizations using scatterplot, histogram, boxpl
 
 ## 3. Outliers Treatment
 1. Capping and Flooring
-   Impute values above P99 *3 and below 0.3*P1
+   Impute values above 3*P99 and below 0.3*P1
 2. Other Methods
     
 ## 6. Transform Skewed Data
